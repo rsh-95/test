@@ -1,4 +1,1 @@
-git branch -m master master2
-git fetch origin
-git branch -u origin/master2 master2
-git remote set-head origin -a
+
